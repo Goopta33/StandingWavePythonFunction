@@ -8,5 +8,5 @@ at position x and time t. This script is still a work in
 progress as there are still issues with the wave transverse 
 velocity and the possibility of finding wave horizontal velocity
 with the tension and linear mass density in the string has not
-yet been included, along with some issues with transverse velocity.
+yet been included.
 
